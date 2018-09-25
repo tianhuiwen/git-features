@@ -7,4 +7,8 @@ public class Beans {
     private String sex;
 
     private String age;
+
+    public String getName() {
+        return name;
+    }
 }
