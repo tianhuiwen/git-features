@@ -7,4 +7,6 @@ public class Beans {
     private String sex;
 
     private String age;
+
+    private String zz;
 }
