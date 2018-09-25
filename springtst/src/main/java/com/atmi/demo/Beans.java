@@ -36,6 +36,6 @@ public class Beans {
 
     private String aa;
     
-    private String bb
+    private String bb;
 
 }
