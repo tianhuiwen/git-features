@@ -33,4 +33,6 @@ public class Beans {
     }
 
     private String zz;
+
+    private String aa;
 }
