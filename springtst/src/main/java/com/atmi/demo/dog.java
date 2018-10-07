@@ -6,4 +6,5 @@ public class dog {
     private String sex;
 
     private String love;
+
 }
