@@ -8,6 +8,8 @@ public class Beans {
 
     private String age;
 
+    private int i;
+
     public String getName() {
         return name;
     }
